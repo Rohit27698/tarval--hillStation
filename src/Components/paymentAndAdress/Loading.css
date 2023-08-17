@@ -1,0 +1,19 @@
+#btn{
+    background-color: rgb(38, 0, 255);
+    border: none;
+    height: 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+#btn:hover{
+    cursor: pointer;
+}
+.container{
+    margin-left: 50%;
+}
+#text{
+    color:rgb(38, 0, 255);
+    font-size: xx-large;
+    border-radius: 15px;
+}
