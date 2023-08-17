@@ -1,0 +1,233 @@
+.box_{
+    max-width: 530px;
+    margin: 0 auto;
+    margin-top:  0;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #ffffff;
+    background-color: rgba(250, 249, 249, 0.9);
+}
+#bx{
+    padding: 5%;
+}
+
+#pg {
+    margin-top: 0;
+    background-image: url('https://www.pixelstalk.net/wp-content/uploads/2015/05/Boat-in-blue-sea-HD-wallpaper-Download-free.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  .inputBx:focus{
+    border-style: solid;
+    border-radius: 3px;
+   outline: transparent solid 2px;
+   border-color: grey;
+}
+#nameContainer{
+    display: flex;
+    gap: 10px;
+}
+#firstName{
+    width: 250px;
+    height: 30px;
+    margin-top: 5px;
+}
+#lastName{
+    width: 250px;
+    height: 30px;
+    margin-top: 5px;
+}
+#phoneNumber{
+    width: 250px;
+    height: 30px;
+    margin-top: 5px;
+}
+#dateOfBirth{
+    width: 250px;
+    height: 30px;
+    margin-top: 5px;
+}
+#email{
+    width: 513px;
+    height: 30px;
+    margin-top: 5px;
+}
+#street{
+    width: 513px;
+    height: 30px;
+    margin-top: 5px;
+}
+#address{
+    width: 513px;
+    height: 30px;
+    margin-top: 5px;
+}
+#cityDiv{
+    display: flex;
+    gap: 10px;
+}
+#city{
+    width: 250px;
+    height: 30px;
+    margin-top: 5px;
+}
+#state{
+    width: 250px;
+    height: 30px;
+    margin-top: 5px;
+}
+#zipcode{
+    width: 513px;
+    height: 30px;
+    margin-top: 5px;
+}
+#DOB{
+    display: flex;
+    gap: 10px;
+}
+#head{
+    text-align: center;
+    color: #0080ff;
+    font-size: 35px;
+    word-spacing: 10px;
+}
+.bn{
+    margin-left: 40%;
+    width: 20%;
+    height: 50px;
+    border: none;
+    background-color: #0080ff;
+    font-size: 35px;;
+    border-radius: 8px;
+    color: #ffffff;
+    font-weight: 350;
+    font-size: 15px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.bn:hover{
+    background-color:  #0d00ff;
+    cursor: pointer;
+}
+.required {
+    color: red;
+    margin-left: 2px;
+  }
+  @media (max-width: 620px) {
+    .box{
+        max-width: 300px;
+        margin: 0 auto;
+        margin-top:  0;
+        padding: 10px;
+        border-radius: 5px;
+        background-color: #ffffff;
+    }
+    #bx{
+        padding: 5%;
+    }
+    
+    #page {
+        margin-top: 0;
+        background-image: url('https://i.pinimg.com/564x/55/e2/e9/55e2e9928218217a11358e5557461f3e.jpg');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+      }
+    #nameContainer{
+        display: flex;
+        gap: 10px;
+    }
+    #firstName{
+        width: 250px;
+        height: 30px;
+        margin-top: 5px;
+    }
+    .inputBx:focus{
+        border-style: solid;
+        border-radius: 3px;
+       outline: transparent solid 2px;
+       border-color: grey;
+    }
+    #lastName{
+        width: 250px;
+        height: 30px;
+        margin-top: 5px;
+    }
+    #phoneNumber{
+        width: 250px;
+        height: 30px;
+        margin-top: 5px;
+    }
+    #dateOfBirth{
+        width: 250px;
+        height: 30px;
+        margin-top: 5px;
+    }
+    #email{
+        width: 513px;
+        height: 30px;
+        margin-top: 5px;
+    }
+    #street{
+        width: 513px;
+        height: 30px;
+        margin-top: 5px;
+    }
+    #address{
+        width: 513px;
+        height: 30px;
+        margin-top: 5px;
+    }
+    #cityDiv{
+        display: flex;
+        gap: 10px;
+    }
+    #city{
+        width: 250px;
+        height: 30px;
+        margin-top: 5px;
+    }
+    #state{
+        width: 250px;
+        height: 30px;
+        margin-top: 5px;
+    }
+    #zipcode{
+        width: 513px;
+        height: 30px;
+        margin-top: 5px;
+    }
+    #DOB{
+        display: flex;
+        gap: 10px;
+    }
+    #heading{
+        text-align: center;
+        color: #ffa500;
+        font-size: 35px;
+        letter-spacing: 5px;
+        word-spacing: 10px;
+    }
+    .btn{
+        margin-left: 40%;
+        width: 20%;
+        height: 50px;
+        border: none;
+        background-color: #ffa500;
+        border-radius: 8px;
+        color: #ffffff;
+        font-weight: 350;
+        font-size: 15px;
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+    .btn:hover{
+        background-color: #de9000;
+        cursor: pointer;
+    }
+    .required {
+        color: red;
+        margin-left: 2px;
+      }
+  }
