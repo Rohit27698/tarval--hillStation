@@ -1,0 +1,658 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Naruto uzumaki"
+    },
+    {
+      "id": 2,
+      "name": "Light Yagami"
+    }
+  ],
+  "posts": [
+    {
+      "email": "admin@thismail.com",
+      "password": "123",
+      "name": "Saif",
+      "lastname": "Khan",
+      "confirmpassword": "123",
+      "id": 2
+    },
+    {
+      "email": "saiftech.it123@gmail.com",
+      "password": "1234",
+      "name": "mr",
+      "lastname": "khan",
+      "confirmpassword": "1234",
+      "id": 3
+    },
+    {
+      "email": "Rohitkumar27699@gmail.com",
+      "password": "1234",
+      "name": "Rohit",
+      "lastname": "Rohit",
+      "confirmpassword": "1234",
+      "id": 4
+    },
+    {
+      "email": "Rohitkumar27699@gmail.com",
+      "password": "1234",
+      "name": "Rohit",
+      "lastname": "Rohit",
+      "confirmpassword": "1234",
+      "id": 5
+    },
+    {
+      "email": "Rohitkumar27699@gmail.com",
+      "password": "1234",
+      "name": "Rohit",
+      "lastname": "Rohit",
+      "confirmpassword": "1234",
+      "id": 6
+    },
+    {
+      "email": "Rohitkumar27699@gmail.com",
+      "password": "1234",
+      "name": "Rohit",
+      "lastname": "Rohit",
+      "confirmpassword": "1234",
+      "id": 7
+    },
+    {
+      "email": "Rohitkumar2699@gmail.com",
+      "password": "123",
+      "name": "ma",
+      "lastname": "se",
+      "confirmpassword": "123",
+      "id": 8
+    },
+    {
+      "email": "Rohitkumar27699@gmail.com",
+      "password": "1234",
+      "name": "Rohit",
+      "lastname": "Rohit",
+      "confirmpassword": "1234",
+      "id": 9
+    }
+  ],
+  "property": [
+    {
+      "id": 1,
+      "imageUrl": "https://bit.ly/2Z4KKcF",
+      "imageAlt": "Rear view of modern home with pool",
+      "country": "amsterdam",
+      "beds": 3,
+      "baths": 2,
+      "title": "Modern home in city center in the heart of historic Los Angeles",
+      "formattedPrice": "1,900.00",
+      "reviewCount": 34,
+      "rating": 4
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://cdn.pixabay.com/photo/2015/03/09/18/34/beach-666122_1280.jpg",
+      "imageAlt": "Example image 1",
+      "country": "india",
+      "beds": 2,
+      "baths": 1,
+      "title": "Cozy apartment in downtown",
+      "formattedPrice": "1,200.00",
+      "reviewCount": 12,
+      "rating": 3.5
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://cdn.pixabay.com/photo/2015/03/09/18/34/beach-666122_1280.jpg",
+      "imageAlt": "Example image 2",
+      "country": "srilanka",
+      "beds": 4,
+      "baths": 3,
+      "title": "Spacious house with a garden",
+      "formattedPrice": "2,500.00",
+      "reviewCount": 45,
+      "rating": 4.8
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://cdn.pixabay.com/photo/2019/09/12/15/21/resort-4471852_640.jpg",
+      "imageAlt": "Example image 3",
+      "country": "dubai",
+      "beds": 1,
+      "baths": 1,
+      "title": "Studio apartment in vibrant neighborhood",
+      "formattedPrice": "900.00",
+      "reviewCount": 8,
+      "rating": 3.2
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://cdn.pixabay.com/photo/2020/10/21/12/21/sea-bridge-5672967_640.jpg",
+      "imageAlt": "Example image 4",
+      "country": "thailand",
+      "beds": 3,
+      "baths": 2,
+      "title": "Family-friendly house with backyard",
+      "formattedPrice": "2,200.00",
+      "reviewCount": 20,
+      "rating": 4.2
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/09/26/11/26/resort-1695717_640.jpg",
+      "imageAlt": "Example image 5",
+      "country": "newyork",
+      "beds": 2,
+      "baths": 2,
+      "title": "Apartment with stunning ocean view",
+      "formattedPrice": "1,800.00",
+      "reviewCount": 28,
+      "rating": 4.6
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://cdn.pixabay.com/photo/2021/12/11/07/59/hotel-6862159_640.jpg",
+      "imageAlt": "Example image 6",
+      "country": "canada",
+      "beds": 4,
+      "baths": 3,
+      "title": "Luxurious villa with private pool",
+      "formattedPrice": "3,500.00",
+      "reviewCount": 55,
+      "rating": 4.9
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/11/08/04/46/jetty-1807471_640.jpg",
+      "imageAlt": "Example image 7",
+      "country": "india",
+      "beds": 3,
+      "baths": 2,
+      "title": "Charming cottage in the countryside",
+      "formattedPrice": "1,500.00",
+      "reviewCount": 16,
+      "rating": 3.8
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/01/02/10/14/beach-hut-237489_640.jpg",
+      "imageAlt": "Rear view of modern home with pool",
+      "country": "india",
+      "beds": 3,
+      "baths": 2,
+      "title": "Modern home in city center in the heart of historic Los Angeles",
+      "formattedPrice": "1,900.00",
+      "reviewCount": 34,
+      "rating": 4
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/03/09/06/30/pool-2128578_640.jpg",
+      "imageAlt": "Example image 1",
+      "country": "amsterdam",
+      "beds": 2,
+      "baths": 1,
+      "title": "Cozy apartment in downtown",
+      "formattedPrice": "1,200.00",
+      "reviewCount": 12,
+      "rating": 3.5
+    },
+    {
+      "id": 11,
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/02/08/04/55/maldives-261506_640.jpg",
+      "imageAlt": "Example image 2",
+      "country": "srilanka",
+      "beds": 4,
+      "baths": 3,
+      "title": "Spacious house with a garden",
+      "formattedPrice": "2,500.00",
+      "reviewCount": 45,
+      "rating": 4.8
+    },
+    {
+      "id": 12,
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/02/08/04/55/maldives-261506_640.jpg",
+      "imageAlt": "Example image 3",
+      "country": "canada",
+      "beds": 1,
+      "baths": 1,
+      "title": "Studio apartment in vibrant neighborhood",
+      "formattedPrice": "900.00",
+      "reviewCount": 8,
+      "rating": 3.2
+    },
+    {
+      "id": 13,
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/02/08/04/55/maldives-261506_640.jpg",
+      "imageAlt": "Example image 4",
+      "country": "newyork",
+      "beds": 3,
+      "baths": 2,
+      "title": "Family-friendly house with backyard",
+      "formattedPrice": "2,200.00",
+      "reviewCount": 20,
+      "rating": 4.2
+    },
+    {
+      "id": 14,
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/02/08/04/55/maldives-261506_640.jpg",
+      "imageAlt": "Example image 5",
+      "country": "srilanka",
+      "beds": 2,
+      "baths": 2,
+      "title": "Apartment with stunning ocean view",
+      "formattedPrice": "1,800.00",
+      "reviewCount": 28,
+      "rating": 4.6
+    },
+    {
+      "id": 15,
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/02/08/04/55/maldives-261506_640.jpg",
+      "imageAlt": "Example image 6",
+      "country": "usa",
+      "beds": 4,
+      "baths": 3,
+      "title": "Luxurious villa with private pool",
+      "formattedPrice": "3,500.00",
+      "reviewCount": 55,
+      "rating": 4.9
+    },
+    {
+      "id": 16,
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/07/11/22/16/resort-2495223_640.jpg",
+      "imageAlt": "Example image 7",
+      "country": "usa",
+      "beds": 3,
+      "baths": 2,
+      "title": "Charming cottage in the countryside",
+      "formattedPrice": "1,500.00",
+      "reviewCount": 16,
+      "rating": 3.9
+    },
+    {
+      "id": 17,
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/07/11/22/16/resort-2495223_640.jpg",
+      "imageAlt": "Example image 8",
+      "country": "india",
+      "beds": 5,
+      "baths": 4,
+      "title": "Elegant mansion with panoramic views",
+      "formattedPrice": "5,000.00",
+      "reviewCount": 67,
+      "rating": 4.7
+    },
+    {
+      "id": 18,
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/07/11/22/16/resort-2495223_640.jpg",
+      "imageAlt": "Example image 9",
+      "country": "london",
+      "beds": 2,
+      "baths": 1,
+      "title": "Quaint bungalow near the beach",
+      "formattedPrice": "1,100.00",
+      "reviewCount": 14,
+      "rating": 3.3
+    },
+    {
+      "id": 19,
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/07/11/22/16/resort-2495223_640.jpg",
+      "imageAlt": "Example image 10",
+      "country": "london",
+      "beds": 3,
+      "baths": 2,
+      "title": "Contemporary loft in the city",
+      "formattedPrice": "1,700.00",
+      "reviewCount": 23,
+      "rating": 4.3
+    },
+    {
+      "id": 20,
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/07/11/22/16/resort-2495223_640.jpg",
+      "imageAlt": "Example image 11",
+      "country": "london",
+      "beds": 4,
+      "baths": 3,
+      "title": "Spacious townhouse with rooftop terrace",
+      "formattedPrice": "2,800.00",
+      "reviewCount": 42,
+      "rating": 4.5
+    },
+    {
+      "id": 21,
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/07/11/22/16/resort-2495223_640.jpg",
+      "imageAlt": "Example image 12",
+      "country": "canada",
+      "beds": 2,
+      "baths": 1,
+      "title": "Modern apartment near the park",
+      "formattedPrice": "1,400.00",
+      "reviewCount": 15,
+      "rating": 3.9
+    },
+    {
+      "id": 22,
+      "imageUrl": "https://bit.ly/2Z4KKcF",
+      "imageAlt": "Rear view of modern home with pool",
+      "country": "usa",
+      "beds": 3,
+      "baths": 2,
+      "title": "Modern home in city center in the heart of historic Los Angeles",
+      "formattedPrice": "1,900.00",
+      "reviewCount": 34,
+      "rating": 4
+    },
+    {
+      "id": 23,
+      "imageUrl": "https://cdn.pixabay.com/photo/2015/03/09/18/34/beach-666122_1280.jpg",
+      "imageAlt": "Example image 1",
+      "country": "amsterdam",
+      "beds": 2,
+      "baths": 1,
+      "title": "Cozy apartment in downtown",
+      "formattedPrice": "1,200.00",
+      "reviewCount": 12,
+      "rating": 3.5
+    },
+    {
+      "id": 24,
+      "imageUrl": "https://cdn.pixabay.com/photo/2015/03/09/18/34/beach-666122_1280.jpg",
+      "imageAlt": "Example image 2",
+      "country": "srilanka",
+      "beds": 4,
+      "baths": 3,
+      "title": "Spacious house with a garden",
+      "formattedPrice": "2,500.00",
+      "reviewCount": 45,
+      "rating": 4.8
+    },
+    {
+      "id": 25,
+      "imageUrl": "https://cdn.pixabay.com/photo/2019/09/12/15/21/resort-4471852_640.jpg",
+      "imageAlt": "Example image 3",
+      "country": "usa",
+      "beds": 1,
+      "baths": 1,
+      "title": "Studio apartment in vibrant neighborhood",
+      "formattedPrice": "900.00",
+      "reviewCount": 8,
+      "rating": 3.2
+    },
+    {
+      "id": 26,
+      "imageUrl": "https://cdn.pixabay.com/photo/2020/10/21/12/21/sea-bridge-5672967_640.jpg",
+      "imageAlt": "Example image 4",
+      "country": "usa",
+      "beds": 3,
+      "baths": 2,
+      "title": "Family-friendly house with backyard",
+      "formattedPrice": "2,200.00",
+      "reviewCount": 20,
+      "rating": 4.2
+    },
+    {
+      "id": 27,
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/09/26/11/26/resort-1695717_640.jpg",
+      "imageAlt": "Example image 5",
+      "country": "canada",
+      "beds": 2,
+      "baths": 2,
+      "title": "Apartment with stunning ocean view",
+      "formattedPrice": "1,800.00",
+      "reviewCount": 28,
+      "rating": 4.6
+    },
+    {
+      "id": 28,
+      "imageUrl": "https://cdn.pixabay.com/photo/2021/12/11/07/59/hotel-6862159_640.jpg",
+      "imageAlt": "Example image 6",
+      "country": "amsterdam",
+      "beds": 4,
+      "baths": 3,
+      "title": "Luxurious villa with private pool",
+      "formattedPrice": "3,500.00",
+      "reviewCount": 55,
+      "rating": 4.9
+    },
+    {
+      "id": 29,
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/11/08/04/46/jetty-1807471_640.jpg",
+      "imageAlt": "Example image 7",
+      "country": "usa",
+      "beds": 3,
+      "baths": 2,
+      "title": "Charming cottage in the countryside",
+      "formattedPrice": "1,500.00",
+      "reviewCount": 16,
+      "rating": 3.8
+    },
+    {
+      "id": 30,
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/01/02/10/14/beach-hut-237489_640.jpg",
+      "imageAlt": "Rear view of modern home with pool",
+      "country": "singapore",
+      "beds": 3,
+      "baths": 2,
+      "title": "Modern home in city center in the heart of historic Los Angeles",
+      "formattedPrice": "1,900.00",
+      "reviewCount": 34,
+      "rating": 4
+    },
+    {
+      "id": 31,
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/03/09/06/30/pool-2128578_640.jpg",
+      "imageAlt": "Example image 1",
+      "country": "singapore",
+      "beds": 2,
+      "baths": 1,
+      "title": "Cozy apartment in downtown",
+      "formattedPrice": "1,200.00",
+      "reviewCount": 12,
+      "rating": 3.5
+    },
+    {
+      "id": 32,
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/02/08/04/55/maldives-261506_640.jpg",
+      "imageAlt": "Example image 2",
+      "country": "singapore",
+      "beds": 4,
+      "baths": 3,
+      "title": "Spacious house with a garden",
+      "formattedPrice": "2,500.00",
+      "reviewCount": 45,
+      "rating": 4.8
+    },
+    {
+      "id": 33,
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/02/08/04/55/maldives-261506_640.jpg",
+      "imageAlt": "Example image 3",
+      "country": "singapore",
+      "beds": 1,
+      "baths": 1,
+      "title": "Studio apartment in vibrant neighborhood",
+      "formattedPrice": "900.00",
+      "reviewCount": 8,
+      "rating": 3.2
+    },
+    {
+      "id": 34,
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/02/08/04/55/maldives-261506_640.jpg",
+      "imageAlt": "Example image 4",
+      "country": "singapore",
+      "beds": 3,
+      "baths": 2,
+      "title": "Family-friendly house with backyard",
+      "formattedPrice": "2,200.00",
+      "reviewCount": 20,
+      "rating": 4.2
+    },
+    {
+      "id": 35,
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/02/08/04/55/maldives-261506_640.jpg",
+      "imageAlt": "Example image 5",
+      "country": "maldives",
+      "beds": 2,
+      "baths": 2,
+      "title": "Apartment with stunning ocean view",
+      "formattedPrice": "1,800.00",
+      "reviewCount": 28,
+      "rating": 4.6
+    },
+    {
+      "id": 36,
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/02/08/04/55/maldives-261506_640.jpg",
+      "imageAlt": "Example image 6",
+      "country": "maldives",
+      "beds": 4,
+      "baths": 3,
+      "title": "Luxurious villa with private pool",
+      "formattedPrice": "3,500.00",
+      "reviewCount": 55,
+      "rating": 4.9
+    },
+    {
+      "id": 37,
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/07/11/22/16/resort-2495223_640.jpg",
+      "imageAlt": "Example image 7",
+      "country": "maldives",
+      "beds": 3,
+      "baths": 2,
+      "title": "Charming cottage in the countryside",
+      "formattedPrice": "1,500.00",
+      "reviewCount": 16,
+      "rating": 3.9
+    },
+    {
+      "id": 38,
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/07/11/22/16/resort-2495223_640.jpg",
+      "imageAlt": "Example image 8",
+      "country": "maldives",
+      "beds": 5,
+      "baths": 4,
+      "title": "Elegant mansion with panoramic views",
+      "formattedPrice": "5,000.00",
+      "reviewCount": 67,
+      "rating": 4.7
+    },
+    {
+      "id": 39,
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/07/11/22/16/resort-2495223_640.jpg",
+      "imageAlt": "Example image 9",
+      "country": "maldives",
+      "beds": 2,
+      "baths": 1,
+      "title": "Quaint bungalow near the beach",
+      "formattedPrice": "1,100.00",
+      "reviewCount": 14,
+      "rating": 3.3
+    },
+    {
+      "id": 40,
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/07/11/22/16/resort-2495223_640.jpg",
+      "imageAlt": "Example image 10",
+      "country": "usa",
+      "beds": 3,
+      "baths": 2,
+      "title": "Contemporary loft in the city",
+      "formattedPrice": "1,700.00",
+      "reviewCount": 23,
+      "rating": 4.3
+    },
+    {
+      "id": 41,
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/07/11/22/16/resort-2495223_640.jpg",
+      "imageAlt": "Example image 11",
+      "country": "canada",
+      "beds": 4,
+      "baths": 3,
+      "title": "Spacious townhouse with rooftop terrace",
+      "formattedPrice": "2,800.00",
+      "reviewCount": 42,
+      "rating": 4.5
+    },
+    {
+      "id": 42,
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/07/11/22/16/resort-2495223_640.jpg",
+      "imageAlt": "Example image 12",
+      "country": "amsterdam",
+      "beds": 2,
+      "baths": 1,
+      "title": "Modern apartment near the park",
+      "formattedPrice": "1,400.00",
+      "reviewCount": 15,
+      "rating": 3.9
+    }
+  ],
+  "blog": [
+    {
+      "id": 1,
+      "name": "News Shimla",
+      "author": "Author 1",
+      "date": "2023-05-01",
+      "img": "https://www.weekendthrill.com/wp-content/uploads/2017/05/Shimla-Tour-1-min.jpg",
+      "desc": "A captivating blend of ancient traditions and cutting-edge technology, Shimla beckons travelers with its stunning cherry blossoms, historic temples, bustling cityscapes and a unique cultural experience.",
+      "readMore": "https://himachaltourism.gov.in/destination/shimla/"
+    },
+    {
+      "id": 2,
+      "name": "News Manali",
+      "author": "Author 2",
+      "date": "2023-05-05",
+      "img": "https://wallpapercave.com/wp/wp4528761.jpg",
+      "desc": "A tropical paradise with stunning natural beauty, Manali allures visitors with its pristine beaches, lush rainforests, and vibrant cities and the country's diverse cultural heritage and mouthwatering cuisine.",
+      "readMore": "https://himachaltourism.gov.in/destination/manali/"
+    },
+    {
+      "id": 3,
+      "name": "News Ladakh",
+      "author": "Author 3",
+      "date": "2023-05-10",
+      "img": "https://wallpapercave.com/wp/wp7029244.jpg",
+      "desc": "With its vast landscapes and iconic union territory like , Ladakh offers a wide range of attractions, including stunning national parks, world-class museums, and bustling entertainment hubs and diverse culture.",
+      "readMore": "https://www.britannica.com/place/Ladakh"
+    },
+    {
+      "id": 4,
+      "name": "News Himachal",
+      "author": "Author 4",
+      "date": "2023-03-01",
+      "img": "https://www.holidify.com/images/bgImages/HIMACHAL-PRADESH.jpg",
+      "desc": "From the bustling streets of himachal to the serene beauty of its countryside, Korea entices visitors with its fascinating mix of traditional and modern attractions, including ancient palaces, vibrant street markets.",
+      "readMore": "https://himachaltourism.gov.in/destination"
+    },
+    {
+      "id": 5,
+      "name": "News Nandi Hill",
+      "author": "Author 5",
+      "date": "2023-01-18",
+      "img": "https://on-track.in/wp-content/uploads/2018/06/Img_nandi_hills_01.jpg",
+      "desc": "With its enchanting clouds like Nandi Hill, Komodo National Park, and the vibrant capital city of Jakarta, Indonesia offers a wealth of natural beauty, diverse cultures, and unique experiences, making it a heaven. ",
+      "readMore": "https://www.holidify.com/places/nandi-hills/"
+    },
+    {
+      "id": 6,
+      "name": "News Kasol",
+      "author": "Author 6",
+      "date": "2023-01-01",
+      "img": "https://th.bing.com/th/id/R.1bc982f5261fb3094c09a465617fd74f?rik=m07GVzD4XqV%2bXQ&riu=http%3a%2f%2fwww.holidaytravel.co%2fuserfiles%2fimages%2fkasol+1(2).jpg&ehk=0Tcet7fesTJzqKg1vip0pVavatT4HHwoa4IOtwK%2f0N4%3d&risl=&pid=ImgRaw&r=0",
+      "desc": "A modern metropolis with a unique blend of cultures, Kasol boasts impressive skyscrapers, iconic landmarks such as Marina Bay Sands, and a renowned food scene, making it a top for both business and leisure travelers.",
+      "readMore": "https://www.holidify.com/places/kasol/"
+    },
+    {
+      "id": 7,
+      "name": "News Darjeeling",
+      "author": "Author 7",
+      "date": "2023-02-04",
+      "img": "https://img.traveltriangle.com/blog/wp-content/uploads/2018/07/darjeeling-rain-clouds-sunset.jpg",
+      "desc": "Known for its rich cultural heritage and diverse landscapes, Darjeeling offers a captivating blend of ancient historical sites like the Taj Mahal and vibrant cities like Delhi and Mumbai, destination for travelers.",
+      "readMore": "https://www.holidify.com/places/darjeeling/"
+    },
+    {
+      "id": 8,
+      "name": "News Ooty",
+      "author": "Author 8",
+      "date": "2023-02-10",
+      "img": "https://th.bing.com/th/id/R.3b8281de003ba9ba586186fdb3293567?rik=Vf4VeUBqhfAPkg&riu=http%3a%2f%2fwww.ifairer.com%2farticle_image%2f5-hill-stations-in-india-you-must-visit-ooty-hill-station-3-76300-ooty.jpg&ehk=%2fb8%2fdP1WbklzEoo5eBd0eIsFxL4L22ZVn7fj76rljVY%3d&risl=&pid=ImgRaw&r=0",
+      "desc": "Boasting a rich history spanning thousands of years, Ooty offers an array of wonders, including the magnificent Great Wall, the terracotta warriors of Xi'an, bustling megacitiesand picturesque landscapes in Guilin.",
+      "readMore": "https://www.holidify.com/places/ooty/"
+    }
+  ]
+}
